@@ -17,7 +17,7 @@
 /*======================================
 *            Monoton Adams             *
 ======================================*/
-@import "https://fonts.googleapis.com/css2?family=Monoton&display=swap";
+@import url("https://fonts.googleapis.com/css2?family=Monoton&display=swap");
 
 .monoton-adams{
   font-family: 'Monoton', cursive;
